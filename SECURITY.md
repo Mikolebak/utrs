@@ -6,7 +6,7 @@
 | Version | Supported          | Until |
 | ------- | ------------------ | -------|
 | 2.0     | :white_check_mark: | Active |
-| < 2.0   | :x:                |        |
+| < 2.0   | :white_check_mark: | Active |
 
 ## Reporting a Vulnerability
 
